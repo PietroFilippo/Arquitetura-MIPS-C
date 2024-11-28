@@ -1,2 +1,18 @@
 # Arquitetura-MIPS-C
-Simulação de um Processador de Estrutura MIPS em C 
+- Simulação de um Processador de Estrutura MIPS em C
+- Instruções MIPS Implementadas:
+    - Tipo R:
+        - ADD
+        - SUB
+        - AND 
+        - OR 
+        - SLT   
+        - JR   
+    - Tipo I:
+        - ADDI
+        - LW
+        - SW
+        - BEQ
+    - Tipo J:
+        - J
+        - JAL
